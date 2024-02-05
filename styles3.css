@@ -10,7 +10,8 @@ body {
 /* top_image */
 
 .top_image_text {
-    color: #fff;
+    color: white;
+    -webkit-text-stroke: 2px black;
 }
 
 header {
