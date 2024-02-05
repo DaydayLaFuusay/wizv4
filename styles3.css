@@ -271,6 +271,7 @@ button:hover{
 /* next_step */
 
 .next_step {
+    width: 50%;
     margin-top:100px;
     font-size: 2em;
 }
