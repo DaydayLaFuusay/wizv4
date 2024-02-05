@@ -1,0 +1,36 @@
+<div class="navbar">
+    <a id="menu-toggle">Menu</a>
+    <div class="menu-content">
+        <a href="syllabus.html" class="nav-link">Syllabus</a>
+        <a href="intro.html" class="nav-link">Introduction</a>
+        <a href="sb1.html" class="nav-link">Introduction 2</a>
+        <a href="sb2.html" class="nav-link">Introduction 3</a>
+        <a href="sb3.html" class="nav-link">Phase de conception</a>
+    </div>
+    <!--  <a href="sb4.html" class="nav-link">Concept and Product Development</a>-->
+    <!--  <a href="sb5.html" class="nav-link">Production and Incident Response</a>-->
+    <!--  <a href="sb6.html" class="nav-link">Threat and Risk Analysis</a>-->
+    <!--  <a href="sb7.html" class="nav-link">Continuous Cyber Security Activities</a>-->
+    <!--  <a href="sb8.html" class="nav-link">Post Development Phase</a>-->
+    <!--  <a href="sb9.html" class="nav-link">Examples and Templates</a>-->
+    <!--  <a href="sb10.html" class="nav-link">Cybersecurity Assurance Level</a>-->
+    <!--  <a href="sb11.html" class="nav-link">Rating Criteria and Attack Feasibility</a>-->
+    <!--  <a href="sb12.html" class="nav-link">Use Case Introduction</a>-->
+    <!--  <a href="conclusion.html" class="nav-link">Conclusion</a>-->
+</div>
+<script>
+const menuContent = document.querySelector(".menu-content");
+menuContent.style.display = "none";
+document.querySelectorAll(".nav-link").forEach((link) => {
+    if (link.href === window.location.href) {
+        link.classList.add("active");
+        link.setAttribute("aria-current", "page");
+    }
+});
+document.getElementById("menu-toggle").addEventListener("click", function() {
+
+    console.log(menuContent.style.display);
+    menuContent.style.display = menuContent.style.display=="none" ? "block" : "none";
+});
+
+</script>

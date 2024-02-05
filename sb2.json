@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Pourquoi la gestion de la sécurité de l'information est-elle cruciale pour les ingénieurs IoT dans l'industrie automobile ?",
+        "optionA": "Pour le développement des nouvelles fonctionnalités véhiculaires",
+        "optionB": "Pour la transmission sécurisée des données et des mises à jour logicielles",
+        "optionC": "Pour la gestion de la consommation d'énergie des véhicules",
+        "optionD": "Pour la surveillance de la qualité de l'air à l'intérieur du véhicule",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Lors de la sélection de composants disponibles sur étagère, tel qu'un module GPS, quel aspect un ingénieur doit-il évaluer ?",
+        "optionA": "Le coût du module GPS",
+        "optionB": "Les fonctionnalités de divertissement du module",
+        "optionC": "Les fonctionnalités de sécurité du module",
+        "optionD": "La taille et le design du module",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Quelle est la nécessité de la surveillance de la cybersécurité pour les ingénieurs IoT ?",
+        "optionA": "Pour surveiller l'efficacité de la production automobile",
+        "optionB": "Pour détecter et traiter les violations de sécurité en temps réel",
+        "optionC": "Pour suivre les tendances du marché automobile",
+        "optionD": "Pour évaluer l'usure des pièces de véhicules",
+        "correctOption": "optionB"
+    }
+]

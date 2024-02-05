@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which clause of ISO/SAE 21434:2021 deals with organizational cybersecurity?",
+        "optionA": "Clause 1",
+        "optionB": "Clause 2",
+        "optionC": "Clause 3",
+        "optionD": "Clause 4",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What is the first step in responding to a cybersecurity incident?",
+        "optionA": "Pay the ransom",
+        "optionB": "Identify the breach",
+        "optionC": "Recover the lost data",
+        "optionD": "Strengthen the security measures",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Why is prevention better than remediation in cybersecurity?",
+        "optionA": "It is more cost-effective",
+        "optionB": "It saves time",
+        "optionC": "It protects the reputation of the organization",
+        "optionD": "All of the above",
+        "correctOption": "optionD"
+    }
+]

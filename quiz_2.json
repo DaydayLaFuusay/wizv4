@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is the first step in phishing prevention?",
+        "optionA": "Identifying suspicious emails",
+        "optionB": "Blocking the sender",
+        "optionC": "Reporting the email",
+        "optionD": "Playing a game of chess",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What is an important part of phishing prevention?",
+        "optionA": "User education",
+        "optionB": "Having a good antivirus",
+        "optionC": "Having a strong password",
+        "optionD": "Having a pet fish",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What is a good tool for phishing prevention?",
+        "optionA": "Email filtering",
+        "optionB": "A hammer",
+        "optionC": "A good antivirus",
+        "optionD": "A strong password",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Why is it important to keep your systems up to date?",
+        "optionA": "To protect against future attacks",
+        "optionB": "Because it\u2019s fun",
+        "optionC": "To keep your computer running smoothly",
+        "optionD": "To have the latest features",
+        "correctOption": "optionA"
+    }
+]

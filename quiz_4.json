@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is the first step in a phishing prevention remediation plan?",
+        "optionA": "Ignore the attack",
+        "optionB": "Incident Response Plan",
+        "optionC": "Go for a coffee break",
+        "optionD": "Preventing Future Attacks",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What does containment and damage minimization involve?",
+        "optionA": "Isolating affected systems",
+        "optionB": "Removing malicious elements",
+        "optionC": "Restoring services",
+        "optionD": "All of the above",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What does preventing future attacks include?",
+        "optionA": "Updating security measures",
+        "optionB": "Educating employees",
+        "optionC": "Improving detection capabilities",
+        "optionD": "All of the above",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "What is the superhero equivalent of phishing prevention remediation?",
+        "optionA": "Flying",
+        "optionB": "Invisibility",
+        "optionC": "Time travel",
+        "optionD": "Saving the day and preventing future attacks",
+        "correctOption": "optionD"
+    }
+]

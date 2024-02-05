@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is the first line of defense against phishing attacks?",
+        "optionA": "Security software",
+        "optionB": "Firewall",
+        "optionC": "Security culture",
+        "optionD": "A magic spell",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What do security policies and procedures outline?",
+        "optionA": "The dress code",
+        "optionB": "The lunch menu",
+        "optionC": "The do\u2019s and don\u2019ts for dealing with potential phishing threats",
+        "optionD": "The company\u2019s holiday schedule",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the purpose of training and awareness programs?",
+        "optionA": "To provide entertainment",
+        "optionB": "To educate employees about phishing attacks",
+        "optionC": "To promote the company\u2019s products",
+        "optionD": "To teach employees how to dance",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What does a company that has effectively implemented the best practices for phishing prevention look like?",
+        "optionA": "A fortress",
+        "optionB": "A beach",
+        "optionC": "A forest",
+        "optionD": "A circus",
+        "correctOption": "optionA"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Quel est le premier pas dans la définition de l'élément selon la norme ISO 21434 ?",
+        "optionA": "Identifier l'architecture préliminaire de l'élément",
+        "optionB": "Décrire ses limites",
+        "optionC": "Déterminer ses fonctions principales",
+        "optionD": "Toutes les réponses sont correctes",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Dans la phase de conception, qu'est-ce qu'un 'Objectif de Cybersécurité' doit définir ?",
+        "optionA": "Les buts de cybersécurité en termes de protection des actifs",
+        "optionB": "Le temps nécessaire pour préparer une attaque",
+        "optionC": "Le niveau d'équipement nécessaire pour une attaque",
+        "optionD": "La fonctionnalité principale de l'élément",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Quel élément est crucial pour évaluer la faisabilité d'une attaque dans le processus de conception ?",
+        "optionA": "La valeur de l'actif ciblé",
+        "optionB": "Les scénarios de menace et l'évaluation des risques",
+        "optionC": "La couleur du composant",
+        "optionD": "Le coût du composant",
+        "correctOption": "optionB"
+    }
+]

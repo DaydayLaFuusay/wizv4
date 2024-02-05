@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is the average cost of a phishing attack for a mid-size company?",
+        "optionA": "$1.6 million",
+        "optionB": "$500,000",
+        "optionC": "$2.5 million",
+        "optionD": "A lifetime supply of chocolate",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What percentage of phishing emails are opened by targeted users?",
+        "optionA": "10%",
+        "optionB": "30%",
+        "optionC": "50%",
+        "optionD": "100%",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What tools are used in phishing prevention?",
+        "optionA": "Gmail, Forcepoint, and Asana",
+        "optionB": "Microsoft Word, Excel, and PowerPoint",
+        "optionC": "Facebook, Instagram, and Twitter",
+        "optionD": "A fishing rod, bait, and a boat",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "What industry is this training specifically designed for?",
+        "optionA": "Aerospace and defense",
+        "optionB": "Fashion and beauty",
+        "optionC": "Food and beverage",
+        "optionD": "Unicorn farming",
+        "correctOption": "optionA"
+    }
+]

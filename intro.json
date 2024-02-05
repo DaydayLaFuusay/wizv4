@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Quel rôle est principalement chargé de l'évaluation des risques et de la mise en œuvre des mesures de protection selon la norme ISO 21434 ?",
+        "optionA": "Le Responsable de la Conformité",
+        "optionB": "L'Ingénieur en Cybersécurité Automobile",
+        "optionC": "L'Architecte Systèmes IoT",
+        "optionD": "Le Spécialiste en Sensibilisation à la Sécurité",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Parmi ces propositions, laquelle n'est pas un risque majeur associé à la non-implémentation de l'ISO 21434 ?",
+        "optionA": "Vulnérabilités accrues aux cyberattaques",
+        "optionB": "Sanctions financières pour non-conformité réglementaire",
+        "optionC": "Retard dans la mise sur le marché des nouveaux véhicules",
+        "optionD": "Augmentation des coûts de production",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Quel terme décrit le processus d'intégration de la cybersécurité à toutes les phases du cycle de vie d'un produit ?",
+        "optionA": "Gestion des actifs de cybersécurité",
+        "optionB": "Évaluation des menaces et analyse des risques",
+        "optionC": "Gestion du cycle de vie de la sécurité",
+        "optionD": "Analyse de l'impact de cybersécurité",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Quelle approche permet de garantir que les fonctions essentielles de cybersécurité d'un véhicule peuvent continuer après un incident ?",
+        "optionA": "Test de pénétration",
+        "optionB": "Principe de moindre privilège",
+        "optionC": "Continuité d'activité de cybersécurité",
+        "optionD": "Stratégie de réponse aux incidents",
+        "correctOption": "optionC"
+    }
+]

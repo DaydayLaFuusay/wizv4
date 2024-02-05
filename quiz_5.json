@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Which tool uses machine learning to detect phishing emails?",
+        "optionA": "Gmail",
+        "optionB": "Forcepoint",
+        "optionC": "Asana",
+        "optionD": "Microsoft Word",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which tool uses real-time analytics to block phishing attacks?",
+        "optionA": "Gmail",
+        "optionB": "Forcepoint",
+        "optionC": "Asana",
+        "optionD": "Adobe Photoshop",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Which tool uses two-factor authentication to prevent phishing?",
+        "optionA": "Gmail",
+        "optionB": "Forcepoint",
+        "optionC": "Asana",
+        "optionD": "Microsoft Excel",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Which tool does not exist?",
+        "optionA": "Gmail",
+        "optionB": "Forcepoint",
+        "optionC": "Asana",
+        "optionD": "PhishBlocker 3000",
+        "correctOption": "optionD"
+    }
+]
